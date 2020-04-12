@@ -1,0 +1,14 @@
+name: TrueVanish
+version: 1.0
+author: Tomahawkmissile
+main: com.gmail.tomahawkmissile2.truevanish.Main
+description: Truly vanish in a server
+api-version: 1.15
+commands:
+  tv:
+    description: vanish
+    usage: /tv
+permissions:
+  tv.use:
+    description: vanish permission
+    default: op    
